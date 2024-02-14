@@ -1,0 +1,11 @@
+times = 'Corinthians','São Paulo','Palmeiras','Santos','Flamengo','Fluminense','Vasco','Botafogo'
+print('-='*15)
+print(times)
+print('-='*15)
+print(times[0:5])
+print('-='*15)
+print(times[-4:])
+print('-='*15)
+print(sorted(times))
+print('-='*15)
+print(times.index('Palmeiras'))
